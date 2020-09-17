@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
+          centerTitle: true, // Para Android
           title: Text(
             'Formulario sencillo de una sola página',
             style: GoogleFonts.pacifico(),
