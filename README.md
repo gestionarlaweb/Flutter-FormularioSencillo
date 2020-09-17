@@ -1,4 +1,6 @@
 # formulario
+* npm install
+* flutter run
 
 Mini Proyecto en Flutter.
 
