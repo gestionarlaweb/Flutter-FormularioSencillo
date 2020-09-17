@@ -10,6 +10,7 @@ Este es un proyecto básico de un formulario.
 
 Está sin estado y solo representa el diseño de la página de logeo:
 
+- centerTitle en el AppBar para centrar el texto del AppBar solo para Android.
 - Widgets : Column, Center, TextField, Text, RaisedButton, CircleAvatar, Divider
 - Instalado el paquete de google_fonts: ^1.1.0
 ["https://pub.dev/packages/google_fonts"]
